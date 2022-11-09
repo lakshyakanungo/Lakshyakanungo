@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 
 - 📫 Reach out to me at **lakshyaislearning@gmail.com**
 
-- ⚡ My energy **I think I bring alot to the table when I get excited about a project**
+- ⚡ Always keen to discuss about new ideas and things you are passionate about
+
+- 😄 Have a look at my moviedekho website :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
