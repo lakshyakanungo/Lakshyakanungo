@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - ⚡ Always keen to discuss about new ideas and things you are passionate about
 
-- 😄 Have a look at my moviedekho website :)
+- 😄 Have a look at my moviedekho website :) **https://moviedekhlo.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
