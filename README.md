@@ -17,13 +17,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Lakshya Kanungo</h1>
-<h3 align="center">a web geek from India</h3>
 
 - 🌱 I’m currently learning and getting better at **React.js, Javascript**
 
 - 🤝 I’m looking for help with **making regular open source contributions**
+
+-->
+<h1 align="center">Hi 👋, I'm Lakshya Kanungo</h1>
+<h3 align="center">a web geek from India</h3>
+
 
 - 📫 Reach out to me at **lakshyaislearning@gmail.com**
 
