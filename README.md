@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - 🤝 I’m looking for help with **making regular open source contributions**
 
 -->
-<h1 align="center">Hi 👋, I'm Lakshya Kanungo</h1>
-<h3 align="center">a web geek from India</h3>
+<h1 align="center">Hi 👋, I'm Lakshya </h1>
+<!-- <h3 align="center">a web geek from India</h3> -->
 
 
 - 📫 Reach out to me at **lakshyaislearning@gmail.com**
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lakshya-k-2a2617118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshya-k-2a2617118" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lakshya___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lakshya___" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/lakshya___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lakshya___" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
