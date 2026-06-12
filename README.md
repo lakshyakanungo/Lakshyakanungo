@@ -1,7 +1,6 @@
 # Hi there, I'm Lakshya Kanungo 👋
 
-I am a **Full Stack Software Engineer** specializing in building scalable backend systems, optimizing database performance, and crafting responsive frontends. My core expertise lies in the **Ruby on Rails** and **React.js** ecosystems. 
-
+I am a **Full Stack Software Engineer** specializing in building scalable backend systems, optimizing database performance, and crafting responsive frontends.
 I enjoy deep-diving into performance bottlenecks and integrating AI capabilities into modern web architectures.
 
 ---
@@ -30,7 +29,7 @@ I enjoy deep-diving into performance bottlenecks and integrating AI capabilities
 
 #### 📂 [HackerNews RAG Application](https://github.com/lakshyakanungo/hackernews-rag-app)
 An AWS-hosted retrieval-augmented generation pipeline that scrapes, indexes, and queries Hacker News articles.
-* **Stack:** React, Ruby on Rails, AWS Lambda, Vector DB, `nomic-embed-text`
+* **Stack:** React, Ruby on Rails, AWS Lambda, Vector DB
 * **Key Feature:** Supports streaming of structured, markdown-formatted AI responses with integrated inline source citations.
 
 #### 📂 [Content Publishing Platform](https://github.com/lakshyakanungo/content-management-platform)
