@@ -1,6 +1,6 @@
 # Hi there, I'm Lakshya Kanungo 👋
 
-I am a **Full Stack Software Engineer** specializing in building scalable backend systems, optimizing database performance, and crafting responsive frontends.
+I am a **Full Stack Software Engineer** specializing in building end-to-end applications with Ruby On Rails and React.js.
 I enjoy deep-diving into performance bottlenecks and integrating AI capabilities into modern web architectures.
 
 ### 🧪 Featured Projects
